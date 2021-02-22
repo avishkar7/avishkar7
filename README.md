@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm a BE Student, studying Electronics and Telecommunications.👋
+
+👯 I’m looking to collaborate in Machine Learning, Neural Networks, Deep Learning projects.
 
 <!--
 **avishkar7/avishkar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
