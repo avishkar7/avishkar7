@@ -32,7 +32,7 @@ If you’re building something in **ML + systems**, or need a collaborator who e
 
 ## 📫 Reach out
 - GitHub: **@avishkar7**
-- (Add your email / LinkedIn here)
+- LinkedIn: https://www.linkedin.com/in/avikawadgave/
 
 ---
 
